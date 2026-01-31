@@ -4,7 +4,7 @@
  * (c) 2012-2024 Fortra, LLC and its group of companies. All trademarks and registered trademarks are the property of their respective owners.
  *
  */
-/*Modified for more stealthy and evade fetaure
+/*Modified for more stealthy and evade feature
 */
 #include <windows.h>
 #include <stdio.h>

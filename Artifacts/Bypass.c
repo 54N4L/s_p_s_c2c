@@ -9,7 +9,7 @@
  *            executing it. This will cause many A/V sandbox tools to
  *            give up on the binary.
  */
-/*Modified for more stealthy and evade fetaure
+/*Modified for more stealthy and evade feature
 */
 #include <windows.h>
 #include <stdio.h>
